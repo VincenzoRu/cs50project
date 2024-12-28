@@ -1,7 +1,7 @@
 # BOND PRICER WEB APP
 #### Video Demo: https://youtu.be/tHtqiml2wM4
 #### Description:
-# Bond Pricer Web App
+
 
 ## Introduction
 The **Bond Pricer Web App** is a simple tool with the goal to be user-friendly and to simplify the calculation of bond prices based on user inputs. The technologies used are Python, Flask, HTML and CSS. This project is developped to help users understand the pricing of a fixed-rate bond with very minimal effort. Just inserts the bond's face value, coupon rate, coupon frequency , time to maturity, and the market interest rate. Then, by clicking the price button, the bond price will be instantly calculated.
